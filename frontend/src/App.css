@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+h1 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+nav {
+  padding: 20px;
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+}
+nav img {
+  width: 150px;
+  border-radius: 20px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+nav ul li {
+  text-decoration: none;
+  margin: 0 15px;
+}
+nav ul li:hover {
+  cursor: pointer;
+}
+
+footer {
+  position: fixed;
+  height: 50px;
+  bottom: 0px;
+  margin-bottom: 0px;
+  margin-left: 43%;
+}

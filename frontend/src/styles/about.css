@@ -1,0 +1,13 @@
+.aboutUs {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px 50px;
+}
+
+.aboutUs p {
+  width: 45%;
+}
+.loadingImg {
+  border-radius: 20px;
+}
